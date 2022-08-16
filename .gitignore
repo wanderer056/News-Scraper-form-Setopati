@@ -1,0 +1,6 @@
+mvenv/
+*.csv
+*.ipynb
+proprocessing_module.py
+scrape.py
+
